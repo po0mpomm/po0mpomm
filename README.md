@@ -1,6 +1,6 @@
 # Hello, I am Anvaya Arsha! 👋
 
-![Personal Banner]()
+![Personal Banner](https://github.com/po0mpomm/Anvaya_Arsha/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png)
 ---
 
 ### 👨‍💻 About Me
