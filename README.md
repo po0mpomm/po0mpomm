@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjananushkacsv&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=po0mpomm&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 
 ---
