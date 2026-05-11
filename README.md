@@ -5,10 +5,13 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Full-Stack Developer** creating end-to-end systems that bridge the digital and physical world.
-- 💡 **IoT Innovator** adept at prototyping with Arduino and integrating hardware solutions.
-- 📊 **AI & Data Science Enthusiast** focused on transforming data into actionable insights.
-- 🌱 Learning **Machine Learning** and **Data Stuff**!
+- 🤖 Building Generative AI Applications using RAG, LangChain, LangGraph & LLM APIs
+- 📊 Exploring Machine Learning, NLP, Deep Learning & Data Science
+- 🧩 Designing and orchestrating AI Agents & Automated Workflows
+- ⚡ Creating intelligent systems with vector databases, embeddings & reranking pipelines
+- 🌐 Full-Stack Developer with experience in React, Node.js, FastAPI & Streamlit
+- 🔬 Passionate about solving real-world problems using AI + Data
+- 🌱 Currently learning more about LLM Optimization, Fine-Tuning & Scalable AI Architectures
 
 
 ---
