@@ -75,13 +75,13 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=po0mpomm&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=po0mpomm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=po0mpomm&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=po0mpomm&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=po0mpomm&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=po0mpomm&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
