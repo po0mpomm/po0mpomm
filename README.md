@@ -74,24 +74,19 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=po0mpomm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
-    height="170"
-  />
+<div align="center">
 
-  <img 
-    src="https://streak-stats.demolab.com?user=po0mpomm&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="170"
-  />
-</p>
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=po0mpomm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=po0mpomm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="170"
-  />
-</p>
+<br><br>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=po0mpomm&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=po0mpomm&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 ## 🤝 Let's Connect!
