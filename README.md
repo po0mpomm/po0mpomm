@@ -74,12 +74,15 @@
 
 # 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=po0mpomm&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=po0mpomm&show_icons=true&theme=radical&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=po0mpomm&theme=radical&hide_border=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=po0mpomm&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=po0mpomm&theme=radical&hide_border=true)
-
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=po0mpomm&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
 
 ---
 ## 🤝 Let's Connect!
